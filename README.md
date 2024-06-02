@@ -6,7 +6,6 @@
 - **👨‍💻 Software Developer**
 - **🌐 Web and MERN is my thing**
 - **🎶 I am a Music Wizardd, I play the piano and guitar. Hit me up for a gig!**
-- **☕ We all like coffee, right?**
 - **📫 Get in touch: email - delbertkip@gmail.com ||| Phone: +254 792 961 634**
 
 
