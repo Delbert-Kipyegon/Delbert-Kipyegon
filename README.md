@@ -1,7 +1,7 @@
 ![Hey, I'm Delbert, Let me blow your mind! animated typed out](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2800&pause=2000&color=58A60F&center=true&vCenter=true&width=940&lines=Hey+I'm+Delbert,+Let+me+blow+your+mind!)
 
 
-## About
+## About Me
 
 - **👨‍💻 Software Developer**
 - **🌐 Web and MERN is my thing**
