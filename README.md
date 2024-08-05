@@ -10,7 +10,7 @@
 
 
 ## ⚙️ Programming Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delbert-Kipyegon&theme=dark)
+
 
 ### Languages, Frameworks, and Tools
 ![Skills Logos](https://skillicons.dev/icons?i=git,github,vite,html,css,js,react,java,py,mysql,php,mongodb,figma,flutter,vscode,linux,dart,ts)
