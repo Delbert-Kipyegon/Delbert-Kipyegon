@@ -6,7 +6,7 @@
 - **👨‍💻 Software Developer**
 - **🌐 Web and MERN is my thing**
 - **🎶 I am a Music Wizardd, I play the piano and guitar. Hit me up for a gig!**
-- **📫 Get in touch: email - delbertkip@gmail.com ||| Phone: https://wa.me/254792961634?text=Hello Delbert.**
+- **📫 Get in touch: email - delbertkip@gmail.com ||| Phone: https://wa.me/254792961634?text=Hello,Delbert.**
 
 
 ## ⚙️ Programming Skills
