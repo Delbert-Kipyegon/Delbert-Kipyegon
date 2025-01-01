@@ -3,7 +3,7 @@
 
 ## About Me
 
-- **👨‍💻 Software Developer**
+- **👨‍💻 Software Developer + ML**
 - **🌐 Web and MERN is my thing**
 - **🎶 I am a Music Wizardd, I play the piano and guitar. Hit me up for a gig!**
 - **📫 Get in touch: email - delbertkip@gmail.com ||| Phone: https://wa.me/254792961634?text=Hello,Delbert.**
