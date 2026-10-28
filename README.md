@@ -18,8 +18,3 @@
 ### Actively Learning
 ![Actively Learning Logos](https://skillicons.dev/icons?i=js,express,mongodb,react,nodejs,zaure,fastapi,nextjs,ts)
 
-## Github Statistics
-
-### Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Delbert-Kipyegon&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7&title_color=2ED573)
-
